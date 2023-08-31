@@ -47,7 +47,7 @@ class PersonalExpensesHomePage extends StatelessWidget {
             child: const Card(
               color: Colors.blue,
               elevation: 5,
-              child: Text('Chart!'),
+              child: Text('Chart'),
             ),
           ),
           Card(
